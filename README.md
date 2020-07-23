@@ -6,6 +6,3 @@ Hi everyone. My name is Hassan & I'm a two time startup founder and student majo
 - 🌱 I’m currently learning React, AWS Amplify, Firebase, and Nodejs.
 - 💬 Ask me about startups, productivity, or front-end software engineering!
 - 📫 How to reach me: Get in touch with me on <a href="https://twitter.com/Nutlope">Twitter</a>!
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: 
-
