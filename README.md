@@ -2,7 +2,7 @@
 
 ---
 
-I'm an entreprenerial software engineer specializing in full-stack web development and dabbling in machine learning.
+I'm an entrepreneurial software engineer specializing in full-stack web development and dabbling in machine learning.
 
 I founded [UltraShock Gaming](https://twitter.com/ushockgaming), a game marketing startup with a community of 500,000 members on Steam, and ran it for 5 years before [selling it](https://www.elmghari.com/startup-journey/). I'm passionate about startups and solving problems using software.
 
