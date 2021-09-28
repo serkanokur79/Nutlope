@@ -7,7 +7,7 @@ I'm a full-stack software engineer currently working as a developer advocate at 
 I founded [UltraShock Gaming](https://twitter.com/ushockgaming), a game marketing startup with a community of 500,000 members on Steam, and ran it for 5 years before [selling it](https://www.elmghari.com/startup-journey/). I'm passionate about startups and solving problems using software.
 
 - 🔧 Building machine learning classifiers to [prevent DVT with a wearable device](https://dvtpd.com/) & [classify covid through CT scans](https://github.com/Nutlope/covid-classifier).
-- 👨‍💻 Coding full-stack React projects like this [YouTuber scraper & search engine](https://github.com/Nutlope/yt-downloader) & this [dashboard](https://pmsox-dashboard.netlify.app/) for a fintech startup and a 
+- 👨‍💻 Coding full-stack React projects like this [YouTuber scraper & search engine](https://github.com/Nutlope/yt-downloader) & this [dashboard](https://pmsox-dashboard.netlify.app/) for a fintech startup
 - ✍️  Documenting my journey and learning in public on my [blog](https://elmghari.com) and <a href="https://twitter.com/Nutlope">Twitter</a>
 
 ---
