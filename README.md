@@ -2,7 +2,7 @@
 
 ---
 
-I'm a full-stack software engineer currently working as a developer advocate and software engineer at [Fig](https://fig.io), a developer productivity startup.
+I'm a full-stack software engineer currently working as a developer advocate at [Vercel](https://vercel.com/).
 
 I founded [UltraShock Gaming](https://twitter.com/ushockgaming), a game marketing startup with a community of 500,000 members on Steam, and ran it for 5 years before [selling it](https://www.elmghari.com/startup-journey/). I'm passionate about startups and solving problems using software.
 
